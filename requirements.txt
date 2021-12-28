@@ -1,0 +1,3 @@
+pypokedex
+pillow
+urllib3
