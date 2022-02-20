@@ -1,5 +1,6 @@
 # vakoDex-Ultimate-uiz
 Nomear todos os 898 pokemons
+Proejeto feito apenas por diversão
 
 Bugs
 
