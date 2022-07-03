@@ -15,7 +15,7 @@ Knowed Bugs:
 # PIL ImportError
 If you get the error `ImportError: cannot import name 'ImageTk' from 'PIL'`<br>
 Run the command: 
-	- Ubuntu: `sudo apt-get install python3-pil python3-pil.imagetk`
-	- Fedora: `sudo dnf install python3-pillow-tk.x86_64 python3-pillow.x86_64 `
-	- ArchLinux `sudo pacman -S python-pillow `
+- Ubuntu: `sudo apt-get install python3-pil python3-pil.imagetk`
+- Fedora: `sudo dnf install python3-pillow-tk.x86_64 python3-pillow.x86_64 `
+- ArchLinux `sudo pacman -S python-pillow `
 
