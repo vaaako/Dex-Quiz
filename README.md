@@ -1,8 +1,22 @@
-# vakoDex-Ultimate-uiz
-Nomear todos os 898 pokemons
-Proejeto feito apenas por diversão
+# Dex-Ultimate-Quiz
+Name all the 898 pokemons<br>
+Project made for fun (First time using tkinter)
+<br>
 
-Bugs
+Knowed Bugs:
+- Nidoran gets wrong becausa don't have the signal
+- Pokemons with signals like "Mr. Mime" or "Farfetch'd" get wrong
 
-- Nidoran Sempre da como errado por não possuir o sinal
-- Pokemon com sinais como Mr. Mime ou Farfetch'd dão como errado
+# Requirements
+- Intall the requirements.txt with `pip3 install -r requirements.txt`
+- For **tkinter**:
+	- Ubuntu: `sudo apt-get install python3-tk`
+	- Fedora: `sudo dnf install python3-tkinter`
+
+# PIL ImportError
+If you get the error `ImportError: cannot import name 'ImageTk' from 'PIL'`<br>
+Run the command: 
+	- Ubuntu: `sudo apt-get install python3-pil python3-pil.imagetk`
+	- Fedora: `sudo dnf install python3-pillow-tk.x86_64 python3-pillow.x86_64 `
+	- ArchLinux `sudo pacman -S python-pillow `
+
