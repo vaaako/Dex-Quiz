@@ -1,5 +1,5 @@
 # Dex-Ultimate-Quiz
-Name all the 898 pokemons<br>
+Guess the name of the 898 pokemons<br>
 Project made for fun (First time using tkinter)
 <br>
 
