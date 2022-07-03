@@ -4,8 +4,7 @@ Project made for fun (First time using tkinter)
 <br>
 
 Knowed Bugs:
-- Nidoran gets wrong becausa don't have the signal
-- Pokemons with signals like "Mr. Mime" or "Farfetch'd" get wrong
+- Pokemons with signals like "Mr. Mime" or "Farfetch'd" get wrong (Not a bug but remember this)
 
 # Requirements
 - Intall the requirements.txt with `pip3 install -r requirements.txt`
