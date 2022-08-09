@@ -16,7 +16,7 @@ def get_image(pokemon):
 	pokemon_image.image = img
 
 
-correct, wrong, pokemon_id = 0, 0, 895
+correct, wrong, pokemon_id = 0, 0, 1
 def check_pokemon(event=None):
 	global pokemon_id
 	global wrong
